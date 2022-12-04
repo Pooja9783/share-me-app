@@ -24,7 +24,7 @@ This project is about Share images. User can upload image and look that image on
 - Implemented Mansonry layout
 - User can download, delete, save and upload images.
 - Added Categories user can see images through particular Category.
-- Added Cearch functionality.
+- Added Search functionality.
 
 ## Demo Link
 https://share-me-app-one.vercel.app/
