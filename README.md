@@ -33,15 +33,15 @@ https://share-me-app-one.vercel.app/
 
 
 ## Screenshots
-###Login Page
+### Login Page
 ![login page](https://github.com/Pooja9783/share-me-app/blob/master/Source/login.png)
 
-###Home Page
+### Home Page
 ![Home page](https://github.com/Pooja9783/share-me-app/blob/master/Source/home.png)
 
-###Image details page
+### Image details page
 ![Image-detail page](https://github.com/Pooja9783/share-me-app/blob/master/Source/image-detail.png)
 
-###Profile Page
+### Profile Page
 ![Profile page](https://github.com/Pooja9783/share-me-app/blob/master/Source/profiel-page.png)
 
