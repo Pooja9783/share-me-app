@@ -9,22 +9,13 @@ The share-me project is about sharing images. Users can upload images and look a
 
 **Back-end:** Sanity
 
+ ## Features
 
- 
-
- 
-
-
-
-
-
-## Features
-
--Implemented Login With Google.
--Implemented Masonry layout
--Users can download, delete, save and upload images.
--Added Categories user can see images through a particular Category.
--Added Search functionality.
+- Implemented Login With Google.
+- Implemented Masonry layout
+- Users can download, delete, save and upload images.
+- Added Categories user can see images through a particular Category.
+- Added Search functionality.
 
 ## Demo Link
 https://share-me-app-one.vercel.app/
