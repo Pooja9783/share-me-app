@@ -1,7 +1,7 @@
 
 # Share-me-app
 
-This project is about Share images. User can upload image and look that image on home page. on the home page user can see all users uploaded images. Also added download and save image features user can downdload and save any particuler image. Implemented google login auth, user have to login with google account.
+The share-me project is about sharing images. Users can upload images and look at that images on the home page. on the home page, users can see all users uploaded images. Also added download and save image features so users can download and save any particular image. Implemented google login auth, user have to log in with a google account.
 
 ## Tech Stack
 
@@ -20,11 +20,11 @@ This project is about Share images. User can upload image and look that image on
 
 ## Features
 
-- Implemented Login With Google.  
-- Implemented Mansonry layout
-- User can download, delete, save and upload images.
-- Added Categories user can see images through particular Category.
-- Added Search functionality.
+-Implemented Login With Google.
+-Implemented Masonry layout
+-Users can download, delete, save and upload images.
+-Added Categories user can see images through a particular Category.
+-Added Search functionality.
 
 ## Demo Link
 https://share-me-app-one.vercel.app/
