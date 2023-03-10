@@ -1,7 +1,7 @@
 
 # Share-me-app
 
-The share-me project is about sharing images. Users can upload images and look at that images on the home page. on the home page, users can see all users uploaded images. Also added download and save image features so users can download and save any particular image. Implemented google login auth, user have to log in with a google account.
+The share-me project is about sharing images. User can upload images and view at that image on the home page. on the home page, user can view all users uploaded images. Also added download and save image features so user can download and save any particular image. Implemented google login auth, user have to log in with a google account.
 
 ## Tech Stack
 
