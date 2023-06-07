@@ -44,7 +44,6 @@ const UserProfile = () => {
       });
     }
   }, [text, userId]);
-  console.log(pins);
 
   const logOutUser = () => {
     localStorage.clear();

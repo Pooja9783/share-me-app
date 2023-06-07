@@ -16,7 +16,6 @@ const Pin = ({ pin: { postedBy, image, _id, destination, save } }) => {
   const [postHovered, setPostHovered] = useState(false);
   // const [savingPost, setSavingPost] = useState(false);
 
-  console.log(postedBy?._id === user?.sub);
   const savePin = (id) => {
     if (!alreadySaved) {
       client
